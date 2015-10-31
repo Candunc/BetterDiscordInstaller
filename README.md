@@ -4,6 +4,8 @@ This software is a 'batteries included'  installer for [BetterDiscord](https://g
 
 If you have probems with BetterDiscord, this is _not_ the proper repository for it. Please head to [Jiiks' Repository](https://github.com/Jiiks/BetterDiscordApp/) if you have any problems.
 
+To download, please head to the [Releases](https://github.com/Candunc/BetterDiscordInstaller/releases) page.
+
 ##Known Issues
 
 * This outright doesn't work! Give me my <del>money</del> time back!
